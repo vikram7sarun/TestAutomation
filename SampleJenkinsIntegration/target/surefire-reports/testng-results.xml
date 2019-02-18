@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.JenkinsIntTest.SampleLogicsTest" duration-ms="42" started-at="2019-02-18T13:03:08Z" finished-at="2019-02-18T13:03:08Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="42" started-at="2019-02-18T13:03:08Z" finished-at="2019-02-18T13:03:08Z">
+      <class name="com.JenkinsIntTest.SampleLogicsTest">
+        <test-method status="PASS" signature="addTest()[pri:0, instance:com.JenkinsIntTest.SampleLogicsTest@58ceff1]" name="addTest" duration-ms="13" started-at="2019-02-18T13:03:08Z" finished-at="2019-02-18T13:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="mulTest()[pri:0, instance:com.JenkinsIntTest.SampleLogicsTest@58ceff1]" name="mulTest" duration-ms="0" started-at="2019-02-18T13:03:08Z" finished-at="2019-02-18T13:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+        <test-method status="PASS" signature="subTest()[pri:0, instance:com.JenkinsIntTest.SampleLogicsTest@58ceff1]" name="subTest" duration-ms="0" started-at="2019-02-18T13:03:08Z" finished-at="2019-02-18T13:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+      </class> <!-- com.JenkinsIntTest.SampleLogicsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.JenkinsIntTest.SampleLogicsTest -->
+</testng-results>
